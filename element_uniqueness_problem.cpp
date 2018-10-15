@@ -32,8 +32,7 @@ int main()
 	int i;
 	int j;
 	int arraySize;
-	int range;
-	//int counter;
+	int range;	
 
 	cout << "Input array's size = ";
 	cin >> arraySize;
